@@ -49,4 +49,4 @@ Permissions in IAM are usually encapsulated within policy documents that list al
 
 ![IAM Overview](images/iam.png)
 
-This framework ensures that entities within the system are authenticated and authorized appropriately, maintaining security and operational integrity.
+This framework ensures that entities within the system are authenticated and authorized appropriately, maintaining security and operational integrity. iam is the evey important in IAM to manage the access
